@@ -11,3 +11,43 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.col {
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.submitForm {
+  margin: 2rem;
+}
+.row {
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  column-gap: 14px;
+}
+.formInput {
+  border: none;
+  border-radius: 4px;
+  padding: 0.8rem;
+  margin: 7px 0;
+  font-size: large;
+}
+.formButton {
+  border: none;
+  border-radius: 7px;
+  padding: 1rem ;
+  margin: 7px 0;
+  font-size: large;
+  width: 100%;
+  background-color: #f7ab0a;
+  color: black;
+  transition: all 0.16s ease-in-out;
+}
+.formButton:hover {
+  background-color: #0af731;
+  cursor: pointer;
+}
