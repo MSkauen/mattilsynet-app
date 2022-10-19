@@ -1,4 +1,4 @@
-Objekttype tilsynsobjekt:
+```Objekttype tilsynsobjekt:
  {
     "idstring": "intern-id"
     "aktivitet": "dyrehold",
@@ -31,3 +31,4 @@ Objekttype registrertForflytning
     "idstring": "intern-id",
     "stedref": "polygon, gps-koordinat, adresse eller matrikkel id"
  }
+```
