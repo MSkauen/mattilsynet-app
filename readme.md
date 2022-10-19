@@ -29,5 +29,5 @@ Objekttype registrertForflytning
  Objekttype sted
  {
     "idstring": "intern-id",
-    "stedref": "polygon, gps-koordinat, adresse eller matrikkel data"
+    "stedref": "polygon, gps-koordinat, adresse eller matrikkel id"
  }
