@@ -1,4 +1,5 @@
-```Objekttype tilsynsobjekt:
+```
+Objekttype tilsynsobjekt:
  {
     "idstring": "intern-id"
     "aktivitet": "dyrehold",
