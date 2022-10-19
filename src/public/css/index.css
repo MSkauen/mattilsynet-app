@@ -51,3 +51,15 @@ code {
   background-color: #635027;
   cursor: pointer;
 }
+
+/* Small devices*/
+@media (min-width: 320px) and (max-width: 480px) {
+ .formButton {
+  width: 50vw;
+ } 
+ .formInput {
+  min-width: 50px;
+  max-width: 150px;
+  width: auto;
+ }
+}
